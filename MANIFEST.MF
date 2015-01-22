@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Permissions: sandbox
+Application-Name: Grid
+Entry-Point: Main
